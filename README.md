@@ -37,5 +37,5 @@ The feature selection techniques used are:
 ![alt text](<Screenshot 2025-04-23 161612.png>)
 
 # Result:
-    Thus, To read the given data and perform Feature Scaling and Feature Selection process and save the
-data to a file is executed successfully.
+    
+Thus, To read the given data and perform Feature Scaling and Feature Selection process and save thedata to a file is executed successfully.
