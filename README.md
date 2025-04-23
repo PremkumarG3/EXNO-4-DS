@@ -1,4 +1,6 @@
 # EXNO:4-DS
+## Name: Prem Kumar G
+## Reg: 212223230158
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
@@ -24,6 +26,15 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+![alt text](<Screenshot 2025-04-23 161435.png>)
+![alt text](<Screenshot 2025-04-23 161448.png>)
+![alt text](<Screenshot 2025-04-23 161502.png>)
+![alt text](<Screenshot 2025-04-23 161514.png>)
+![alt text](<Screenshot 2025-04-23 161524.png>)
+![alt text](<Screenshot 2025-04-23 161546.png>)
+![alt text](<Screenshot 2025-04-23 161600.png>)
+![alt text](<Screenshot 2025-04-23 161612.png>)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+         Thus,The given data is read and performed Feature Scaling and Feature Selection process and saved the data to a file.
